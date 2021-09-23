@@ -1,4 +1,7 @@
-- Hi, I’m Kate
+#Hi there!
+- 
+- 
+- I’m Kate
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
