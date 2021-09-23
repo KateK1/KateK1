@@ -1,12 +1,18 @@
-#Hi there! 👋
+# Hi there! 👋
 
 
 - I’m Kate
-- I'm starting out as a data analyst
+- I'm starting out as a data analyst.
+- I love data exploration and any sort of automatisation
+
+- 🖥️ I’m learning/working with Python (Pandas, BS4, Matplotlib etc.), SQL, Tableau
 
 - 👀 I’m interested in so many things _(coming soon)_
-- 🖥️ I’m learning/working with Python, SQL, Tableau
-- 💬 Quote I love: “The greatest value of a picture is when it forces us to notice what we never expected to see.” -John Tukey
+
+- 🌱 I’m excited to learn machine learning and computer vision
+
+- 💬 Quote I love: "The purpose of visualization is insight, not pictures" - Ben Shneiderman
+
 - Messege me:
   - ✉️ kutovaia1@gmail.com
 
