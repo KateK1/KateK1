@@ -15,6 +15,8 @@
 
 - Messege me:
   - ✉️ kutovaia1@gmail.com
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/katekut1/)
+&nbsp;
 
 
 
