@@ -1,7 +1,7 @@
 # Hi there! 👋
 
 
-- I’m Kate
+- I’m Kate - data analyst with engeneering background
 - I love data exploration and any sort of automatisation
 
 - 🖥️ I’m learning/working with Python (Pandas, BS4, Matplotlib etc.), SQL, Tableau
