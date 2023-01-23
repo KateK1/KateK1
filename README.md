@@ -1,12 +1,9 @@
 # Hi there! 👋
 
-
-- I’m a data analyst with engeneering background
+- I’m a data analyst with engeneering background. Here you can find my projects.
 - I love data exploration and any sort of automatisation
 
-- 🖥️ I’m learning/working with Python (Pandas, BS4, Matplotlib etc.), SQL, Tableau
-
-- 👀 I’m interested in so many things _(coming soon)_
+- 🖥️ I’m working with Python (pandas, numpy, scipy, seaborn, plotly, scikit-learn, etc.), SQL, Tableau
 
 - 🌱 I’m excited to learn machine learning and computer vision
 
