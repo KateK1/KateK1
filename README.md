@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-- I’m a data analyst with engeneering background. Here you can find my projects.
+- I’m a data analyst with 2 years of experience and with engeneering background. Here you can find my projects.
 - I love data exploration and any sort of automatisation
 
 - 🖥️ I’m working with Python (pandas, numpy, scipy, seaborn, plotly, scikit-learn, etc.), SQL, Tableau
