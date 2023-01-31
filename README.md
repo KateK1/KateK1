@@ -2,8 +2,8 @@
 ![](https://komarev.com/ghpvc/?username=KateK1&color=cededb)
 
 - I’m a data analyst with 2 years of experience and with engeneering background. Looking for new opportunities 
-- I love data exploration and any sort of automatisation -------- change
-- 🌱 I’m learning machine learning and computer vision --------- change polars
+- I love data exploration and any sort of automatisation 
+- 🌱 I’m learning machine learning and computer vision 
 - 💬 Quote I love: "The purpose of visualization is insight, not pictures" - Ben Shneiderman
 
 **SKILLS**  
