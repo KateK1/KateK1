@@ -14,8 +14,8 @@
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/katekut1/)
 &nbsp;
 
-<a href="#" class="button">Post comment (link)</a>
-<input class="button" type="submit" value="Post comment (input)">
+<a href="#" class="button">[Post comment (link)](https://www.linkedin.com/in/katekut1/)</a>
+<input class="button" type="submit" value="LN">
 <button class="button" type="submit">Post comment (button)</button>
 
 <!---
