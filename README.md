@@ -14,7 +14,9 @@
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/katekut1/)
 &nbsp;
 
-
+<a href="#" class="button">Post comment (link)</a>
+<input class="button" type="submit" value="Post comment (input)">
+<button class="button" type="submit">Post comment (button)</button>
 
 <!---
 KateK1/KateK1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
