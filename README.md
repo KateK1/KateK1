@@ -1,5 +1,5 @@
 # Hi there! 👋
-![](https://komarev.com/ghpvc/?username=KateK1&color=cededb)
+![](https://komarev.com/ghpvc/?username=KateK1&color=36465D)
 
 - I’m a data analyst with 2 years of experience and with engeneering background. **Looking for new opportunities** 
 - I love data exploration and any sort of automatisation 
@@ -8,11 +8,10 @@
 
 **SKILLS**  
 ![Python](https://img.shields.io/static/v1?logo=Python&label=&message=Python&color=36465D&logoColor=AAA&style=flat-square)
-  - pandas, numpy, scipy, BeautifulSoup, re, Requests, openpyxl   
-  - Viz - seaborn, plotly, matplotlib   
-  - ML - scikit-learn, XGBoost, tensorflow 
-  - Other - OpenCV, BentoML  
-
+pandas, numpy, scipy, BeautifulSoup, re, Requests, openpyxl
+![#36465D](https://placehold.co/60x15/36465D/FFFFFF?text=Viz) seaborn, plotly, matplotlib  
+![#36465D](https://placehold.co/60x15/36465D/FFFFFF?text=ML) scikit-learn, XGBoost, tensorflow
+![#36465D](https://placehold.co/60x15/36465D/FFFFFF?text=Other) OpenCV, BentoML  
 ![MySQL](https://img.shields.io/static/v1?logo=MySQL&label=&message=MySQL&color=36465D&logoColor=AAA&style=flat-square)
 ![PostgreSQL](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=PostgreSQL&color=36465D&logoColor=AAA&style=flat-square)
 ![Tableau](https://img.shields.io/static/v1?logo=PostgreSQL&label=&message=Tableau&color=36465D&logoColor=AAA&style=flat-square)
@@ -30,6 +29,8 @@
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/katekut1/)
 &nbsp;
 
+**PROJECTS**  
+... Coming soon ...
 <!---
 KateK1/KateK1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
