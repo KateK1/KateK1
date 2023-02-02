@@ -30,7 +30,11 @@ pandas, numpy, scipy, BeautifulSoup, re, Requests, openpyxl
 &nbsp;
 
 **PROJECTS**  
+  
+[![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=->&color=36465D&logoColor=AAA&style=flat-square) Tableau public page](https://public.tableau.com/app/profile/kate5782)
+
 ... Coming soon ...
+
 <!---
 KateK1/KateK1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
