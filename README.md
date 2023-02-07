@@ -3,7 +3,7 @@
 
 - I’m a data analyst with 2 years of experience and with engeneering background. **Looking for new opportunities** 
 - I love data exploration and any sort of automatisation 
-- 🌱 Currently exploring: advansed SQL, polars, graphs 
+- 🌱 Currently exploring: advansed SQL, Spark, graphs 
 - 💬 Quote I love: "The purpose of visualization is insight, not pictures" - Ben Shneiderman
 
 **SKILLS**  
