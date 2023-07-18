@@ -33,6 +33,8 @@ pandas, numpy, scipy, BeautifulSoup, re, Requests, openpyxl
   
 [![Tableau](https://img.shields.io/static/v1?logo=tableau&label=&message=->&color=36465D&logoColor=AAA&style=flat-square) Tableau public page](https://public.tableau.com/app/profile/kate5782)
 
+[Candidate joining prediction](https://github.com/KateK1/ML_Zoomcamp/tree/main/%D0%A1apstone%20project)
+
 ... Coming soon ...
 
 <!---
